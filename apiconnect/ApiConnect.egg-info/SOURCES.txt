@@ -1,4 +1,4 @@
-API.py
+api.py
 pyproject.toml
 ApiConnect.egg-info/PKG-INFO
 ApiConnect.egg-info/SOURCES.txt
